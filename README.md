@@ -27,4 +27,10 @@
 
 ![Блок-схема](Bloc-diagram.png)
 
+**Результат программы:**
 
+![Result](Result.png)
+
+**Список commit:**
+
+![Commit](Commit.png)

@@ -1,4 +1,4 @@
-﻿int GetSize(string message) 
+﻿int GetSize(string message)
 {
     int result = 0;
     while(true)
@@ -38,7 +38,7 @@ string[] FinalArray(string[] startArray)
         length = startArray[i].Length;
         if (startArray[i].Length <= 3)
         {
-            c;
+            count++;
         }
     }
    
